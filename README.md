@@ -53,5 +53,5 @@ See [LICENCE.md](LICENCE.md) for license information.
 
 ## Credits
 
-- Developed by [Your Name]
-- Graphics and sounds by [Your Name or sources]
+- Developed by Pavel Jančík
+- Graphics and music by Pavel Jančík
