@@ -1,0 +1,67 @@
+# Qt build files
+*.pro.user
+*.qmake.stash
+*.qmake.cache
+*.moc/
+*.obj/
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.app
+*.dSYM/
+*.qrc.depends
+*.qrc.translations
+*.qrc
+*.autosave
+*.qmlc
+*.jsc
+*.rcc
+
+# Qt Creator
+*.autosave
+*.creator.*
+*.user
+*.user.*
+*.pro.user*
+*.pro.user.*
+
+# Build directories
+build-*/
+dist/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Compiled resource files
+resources/*.qrc
+
+# Ignore generated UI files
+ui_*.h
+moc_*.cpp
+qrc_*.cpp
+
+# Ignore generated Makefiles
+Makefile*
+
+# Ignore CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Ignore Python cache (if any)
+__pycache__/
+
+# Ignore score table if generated at runtime
+resources/scoreTable.txt
