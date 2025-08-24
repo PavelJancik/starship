@@ -1,7 +1,7 @@
 # Starship Game
 
 <p align="center">
-  <img src="/resources/thumbnail.png" alt="Starship Game Thumbnail" width="400"/>
+  <img src="/resources/screenshot.png" alt="Starship Game Screenshot"/>
 </p>
 
 A classic 2D space shooter game built with C++ and Qt.
