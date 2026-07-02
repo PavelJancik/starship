@@ -15,27 +15,6 @@ A classic 2D space shooter game built with C++ and Qt.
 - Sound effects and background music
 - Custom graphics and UI
 
-## Getting Started
-
-### Prerequisites
-
-- Qt 5 or 6 (Qt Creator recommended)
-- C++ compiler (GCC, Clang, or MSVC)
-
-### Build Instructions
-
-1. Open `Game.pro` in Qt Creator.
-2. Configure the project for your environment.
-3. Build and run the project.
-
-Alternatively, from the command line:
-
-```bash
-qmake Game.pro
-make
-./Game
-```
-
 ## Project Structure
 
 - `main.cpp` / `mainwindow.*` — Main application and window logic
